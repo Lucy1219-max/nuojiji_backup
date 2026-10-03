@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791002134822,
+  "timestamp": 1791002145217,
   "appVersion": "6.9.89 (2026.10.01)",
   "tables": [
     "characters",
@@ -151,7 +151,9 @@
     "customCalendars": true,
     "groupChats": true,
     "xinsheng": true,
-    "xinshengRounds": true
+    "xinshengRounds": true,
+    "pomodoroSessions": true,
+    "couplesData": true
   },
   "inProgress": true
 }
