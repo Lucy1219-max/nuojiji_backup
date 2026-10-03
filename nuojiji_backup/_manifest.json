@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791002023378,
+  "timestamp": 1791002030176,
   "appVersion": "6.9.89 (2026.10.01)",
   "tables": [
     "characters",
@@ -114,7 +114,8 @@
     "_migration"
   ],
   "chunkedTables": {
-    "messages": 7
+    "messages": 7,
+    "roleStickers": 1
   },
   "completedTables": {
     "characters": true,
@@ -128,7 +129,8 @@
     "chatSettings": true,
     "favorites": true,
     "memory": true,
-    "summaryEntries": true
+    "summaryEntries": true,
+    "callLogs": true
   },
   "inProgress": true
 }
