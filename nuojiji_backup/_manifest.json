@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791002761934,
+  "timestamp": 1791002769034,
   "appVersion": "6.9.89 (2026.10.01)",
   "tables": [
     "characters",
@@ -188,7 +188,9 @@
     "homelandState": true,
     "fontStore": true,
     "radioData": true,
-    "novelBooks": true
+    "novelBooks": true,
+    "novelChapters": true,
+    "novelVolumes": true
   },
   "inProgress": true
 }
