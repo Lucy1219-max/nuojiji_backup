@@ -1,6 +1,6 @@
 {
   "version": 6,
-  "timestamp": 1791652444888,
+  "timestamp": 1791652450869,
   "appVersion": "6.9.95 (2026.10.06)",
   "tables": [
     "characters",
@@ -118,7 +118,7 @@
     "roleStickers": 2,
     "imageStore": 23,
     "stickerStore": 5,
-    "ttsAudio": 2
+    "ttsAudio": 3
   },
   "completedTables": {
     "characters": true,
